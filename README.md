@@ -70,6 +70,8 @@ Accroding to the below image;
 
 ![2022-04-30 (1)](https://user-images.githubusercontent.com/96403349/166133665-508ce760-6b1a-4d86-a3af-3ab2815bcc49.png)
 
-  
+## Suumary:
+
+For all machine learning models, utilize that EasyEnsembleClassifier is the most effective and provides a highest Score for all Risk loans. The best predictive models had a fair mix of recall and precision accuracy. I would recommend one of the 2 ensemble models because they have high accuracy scores than other 4 models. And the Easy Ensemble AdaBoost Classifier has the balanced of precision and recall accuracy scores and this specific model to be used to assess credit risk in this example and also in the future. 
 
 
