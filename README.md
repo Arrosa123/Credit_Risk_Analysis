@@ -50,9 +50,26 @@ Accroding to the following image;
 
 ### Balanced Random Forest Classifier
 
+The Balanced Random Forest Classifier used to find 100 estimators to to classify the testing data. The logistic regression model was trained and the following image and information shows the resulting balanced accuracy score, confusion matrix, and imbalance classification report.
+Accroding to the below image;
+
+-  the following image and information shows the resulting balanced accuracy score, confusion matrix, and imbalance classification report.
+Accroding to the below image;This shows that the classifier is good at predicting true positives for low-risk loans.
 
 
+![2022-04-30](https://user-images.githubusercontent.com/96403349/166133515-a18769d2-444e-4a01-bd04-a4ca234c3f7e.png)
 
+### Easy Ensemble AdaBoost Classifier
 
+The Easy Ensemble AdaBoost Classifier was used to train and evaluate models to classify the testing data. the following image and information shows the resulting balanced accuracy score, confusion matrix, and imbalance classification report.
+Accroding to the below image;
+
+- The balanced accuracy score for this model is around 92.6%. 
+- The precision scores for this model are very skewed toward the low-risk loans and low-risk were correctly predicted, but some of the high risk loans were predict.
+- The recall scores for this model show that the model is better at identifying positive low-risk loans (0.94) and decent at positively identifying high-risk loans (0.91)which shows the high rate of true postive. 
+
+![2022-04-30 (1)](https://user-images.githubusercontent.com/96403349/166133665-508ce760-6b1a-4d86-a3af-3ab2815bcc49.png)
+
+  
 
 
